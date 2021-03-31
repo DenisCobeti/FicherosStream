@@ -16,6 +16,8 @@ Sin embargo hay ciertas limitaciones:
 - Existe un cooldown para poder cambiarme el arma que dura 10 segundos (Esto se puede hablar)
 - Cada usuario tiene un cooldown propio de 15 segundos para evitar spam de una sola persona
 
+------------------
+
 <details>
 <summary>Armas de juego base</summary>
 <br>
