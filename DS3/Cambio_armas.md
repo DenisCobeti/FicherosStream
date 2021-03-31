@@ -7,7 +7,7 @@ En este stream podréis cambiarme las armas a vuestro gusto con la siguiente ins
 ```
 *El argumento <nivel_de_arma> es opcional
 
-#### Ejemplo de uso:  !weapon 009B2E90 6
+### Ejemplo de uso:  !weapon 009B2E90 6
 
 Los id de las distintas armas se pueden obtener al final del este documento.
 
