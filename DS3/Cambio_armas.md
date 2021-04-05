@@ -13,7 +13,7 @@ Los id de las distintas armas se pueden obtener al final del este documento.
 
 Sin embargo hay ciertas limitaciones:
 
-- Existe un cooldown para poder cambiarme el arma que dura 10 segundos (Esto se puede hablar)
+- Existe un cooldown para poder cambiarme el arma que dura 5 segundos (Esto se puede hablar)
 - Cada usuario tiene un cooldown propio de 15 segundos para evitar spam de una sola persona
 
 ------------------
@@ -2455,36 +2455,3 @@ Id       | Name                                                | Note
 
 </details>
 
-<details>
-<summary>Armas no usadas</summary>
-<br>
-
-### Weapons - Unused content (23)
-
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
-00015F90 | Torch | Another version of this weapon is used in the game
-00100590 | Blood-stained Short Sword
-006C2F50 | Missionary's Axe
-006D40C0 | Dragon King Greataxe
-007D4650 | Four Knights Hammer
-007D9470 | Hammer of the Great Tree
-008ADAE0 | Four-Pronged Plow | Another version of this weapon is used in the game
-00C8A730 | Sacred Beast Catalyst
-00F55C80 | Golden Dual Swords
-009A4430 | Lothric's Scythe
-009A6B40 | Ancient Dragon Halberd
-009A9250 | Scythe of Want
-00C8A730 | Sacred Beast Catalyst
-00CC9ED0 | Deep Pyromancy Flame
-00CD3B10 | Flickering Pyromancy Flame
-00CD6220 | Strong Pyromancy Flame
-00CDFE60 | Deep Pyromancy Flame
-00CE2570 | Pitch-Dark Pyromancy Flame
-00D77440 | Dancer's Short Bow
-00F55C80 | Golden Dual Swords
-013524A0 | Cleric's Parma
-013599D0 | Ancient Dragon Greatshield | Another version of this shield is used in the game
-01421CF0 | Prince's Shield
-
-</details>
